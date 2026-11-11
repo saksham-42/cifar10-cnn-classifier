@@ -8,6 +8,12 @@ A Convolutional Neural Network for CIFAR-10 image classification, built using Py
 
 ---
 
+## Live Demo
+
+[Try the CIFAR-10 Image Classifier](https://cifar10-cnn-classifier-5jtp66uepamzhlnqqc3k9k.streamlit.app/)
+
+---
+
 ## What It Does
 
 - Classifies 32×32 RGB images into 10 CIFAR-10 categories
