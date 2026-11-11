@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__
+
+# Dataset
+data/
+
+# Virtual environment
+env/
+venv/
+
+# Model checkpoints
+models/*.pth
+!models/cifar10_cnn_best.pth
